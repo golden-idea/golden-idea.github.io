@@ -17,7 +17,8 @@
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://golden-idea.gitlab.io/about/</guid>
-      <description>Golden Idea theme demo Golden Idea theme is a theme to build a website quickly to introduce your ideas or project. You can present from the published web page, or export the page as a local file for presentation.
+      <description>Golden Idea theme is a theme to build a website quickly to introduce your ideas or project. You can present from the published web page, or export the page as a local file for presentation.
+Repo for this theme: https://github.com/golden-idea/golden-idea.github.io
 This theme is used in the documentation site of Go and Talk page builder.
 How to Use This Theme Hosting With Github Pages  create an organization fork repository to this organization, and rename repository to [orgname].</description>
     </item>
