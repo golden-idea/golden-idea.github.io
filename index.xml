@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Build a Website Ready to Present on Golden Idea Theme</title>
+    <link>https://golden-idea.gitlab.io/</link>
+    <description>Recent content in Build a Website Ready to Present on Golden Idea Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright 2018, GoAndMake.app</copyright>
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://golden-idea.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Golden Idea Theme</title>
+      <link>https://golden-idea.gitlab.io/about/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://golden-idea.gitlab.io/about/</guid>
+      <description>Golden Idea theme demo Golden Idea theme is a theme to build a website quickly to introduce your ideas or project. You can present from the published web page, or export the page as a local file for presentation.
+This theme is used in the documentation site of Go and Talk page builder.
+How to Use This Theme Hosting With Github Pages  create an organization fork repository to this organization, and rename repository to [orgname].</description>
+    </item>
+    
+    <item>
+      <title>Go and Talk Page Builder</title>
+      <link>https://golden-idea.gitlab.io/edit/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://golden-idea.gitlab.io/edit/</guid>
+      <description>Hover on the left edge of the screen to manage sites and pages, or load remote data.
+Hover on the top edge of a section to manage the section.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://golden-idea.gitlab.io/privacy/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://golden-idea.gitlab.io/privacy/</guid>
+      <description>A great story goes here.
+Some ideas about the story.
+ why starting this business how coffee beans are sourced how are the staff trained how to get there  </description>
+    </item>
+    
+    <item>
+      <title>Terms of Use</title>
+      <link>https://golden-idea.gitlab.io/terms/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://golden-idea.gitlab.io/terms/</guid>
+      <description>A great story goes here.
+Some ideas about the story.
+ why starting this business how coffee beans are sourced how are the staff trained how to get there  </description>
+    </item>
+    
+  </channel>
+</rss>
